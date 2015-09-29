@@ -1,6 +1,11 @@
 # SEBHVAConfig
 Working SEB for exams on moodle for the HVA
 
+Clone the project with the submodule
+git clone --recursive git@github.com:Biodiscus/SEBHVAConfig.git
+If you forgot the resursive part and just cloned normally:
+cd SEBHVAConfig/seb && git submodule update --init --recursive
+
 Create the profile directory
 mkdir GIT_FOLDER/seb/browser/data/profile
 
