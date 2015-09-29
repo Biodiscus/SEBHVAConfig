@@ -14,6 +14,9 @@ If you're running a 64 bit linux, change the start.sh to correctly get the xulru
 Make it easier to launch via the terminal (did not work in dmenu2 :C):
 ln -s GIT_FOLDER/seb/browser/bin/linux/64/start.sh /usr/bin/seb
 
+Default closing password: 
+password
+
 Disclaimer:
 The only thing I did was fix the start.sh in the x64 folder to correctly open xulrunner for x64 and set the correct URL for moodle.
 https://github.com/eqsoft/seb
