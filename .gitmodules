@@ -1,0 +1,3 @@
+[submodule "seb"]
+	path = seb
+	url = https://github.com/eqsoft/seb.git
